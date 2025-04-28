@@ -1,9 +1,10 @@
-ILP Better Than SA (solution size),77.77777777777779
+,Value
+ILP Better Than SA (solution size),66.66666666666666
 SA Better Than ILP (solution size),0.0
-Equal Solutions,22.22222222222222
+Equal Solutions,33.33333333333333
 Avg. ILP Solution Size,35.111111111111114
-Avg. SA Solution Size,42.22222222222222
-Avg. ILP Runtime,6.7779750029246015
-Avg. SA Runtime,0.35847716861301
-ILP Faster Than SA,22.22222222222222
-SA Faster Than ILP,77.77777777777779
+Avg. SA Solution Size,42.0
+Avg. ILP Runtime,7.775833818647596
+Avg. SA Runtime,2.4984104368421765
+ILP Faster Than SA,55.55555555555556
+SA Faster Than ILP,44.44444444444444
