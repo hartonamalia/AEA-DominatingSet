@@ -4,14 +4,14 @@ Dominating Set Benchmark - Summary Report
 
 Total Instances: 9
 Graph Size Range: 3 - 311 nodes
-Avg. ILP Runtime: 7.78s
-Avg. SA Runtime: 2.50s
+Avg. ILP Runtime: 7.21s
+Avg. SA Runtime: 2.19s
 Avg. ILP Solution Size: 35.11 nodes
 Avg. SA Solution Size: 42.00 nodes
 Nodes-ILP Size Correlation: 0.9994
 Nodes-SA Size Correlation: 0.9972
-Nodes-ILP Runtime Correlation: 0.6564
-Nodes-SA Runtime Correlation: 0.8981
+Nodes-ILP Runtime Correlation: 0.6643
+Nodes-SA Runtime Correlation: 0.8103
 
 ======================================
 Statistical Correlations
@@ -19,5 +19,5 @@ Statistical Correlations
 
 Nodes-ILP Size Correlation: 0.9993959156831835 (positive strong correlation)
 Nodes-SA Size Correlation: 0.9972354125856117 (positive strong correlation)
-Nodes-ILP Runtime Correlation: 0.6564218104915102 (positive moderate correlation)
-Nodes-SA Runtime Correlation: 0.8981277179574326 (positive strong correlation)
+Nodes-ILP Runtime Correlation: 0.6642685876372266 (positive moderate correlation)
+Nodes-SA Runtime Correlation: 0.8103400433565505 (positive strong correlation)
